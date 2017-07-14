@@ -1,0 +1,3 @@
+#This is my .gitignore file
+*.zip
+*.DS_Store
